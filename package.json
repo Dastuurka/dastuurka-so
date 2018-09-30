@@ -1,0 +1,28 @@
+{
+  "name": "dastuurka",
+  "version": "1.0.0",
+  "description": "dastuurka-kmg",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "0.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dastuurka/dastuurka-so.git"
+  },
+  "keywords": [],
+  "author": "Ali Salad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dastuurka/dastuurka-so/issues"
+  },
+  "homepage": "https://github.com/Dastuurka/dastuurka-so#readme"
+}
